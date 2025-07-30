@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dipak Kumar</h1>
 <h3 align="center">A passionate Backend/Java developer from India</h3>
 
-- 🔭 I’m currently working on [Expense Tracker App](https://github.com/dipak1935/Expense-Tracker-App)
+<!-- Your comment here 
+- 🔭 I’m currently working on [Expense Tracker App](https://github.com/dipak1935/Expense-Tracker-App) -->
 
-- 🌱 I’m currently learning **DevOps**
+
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **self.dipak@gmail.com**
 
